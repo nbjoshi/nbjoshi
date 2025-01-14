@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a memorization game using the Fortnite API<br>🌱 I’m currently learning React.js<br>💬 Ask me about The Odin Project<br>⚡ Fun fact about me is that I was born in India
+🔭 I’m currently working on the official website for Mina's Brow and Spa with my friend Ayush Godhani<br>🌱 I’m currently learning React.js<br>💬 Ask me about The Odin Project<br>⚡ Fun fact about me is that I was born in India
 
 
 # 💻 Tech Stack:
