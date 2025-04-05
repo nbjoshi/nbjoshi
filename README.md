@@ -22,8 +22,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/springboot-%B9FF66.svg?style=for-the-badge&logo=springboot&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express-%23323330.svg?style=for-the-badge&logo=express&logoColor=white) 
-![Node.js](https://img.shields.io/badge/node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 # 📝 Currently, I am taking:
