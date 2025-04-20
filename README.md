@@ -24,14 +24,15 @@
 ![Spring Boot](https://img.shields.io/badge/springboot-%B9FF66.svg?style=for-the-badge&logo=springboot&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-# 📝 Currently, I am taking:
-COMP 426: Modern Web Development
-
-COMP 433: iOS Development
-
-COMP 421: Files and Databases
-
-COMP 550: Algorithms
+# 📝 Previous Coursework:
+Data Structures and Algorithms (Java)
+Design Patterns and OOP (Java)
+System Fundamentals (C)
+Foundations of Statistics and Data Science (Python)
+Modern Web Development (React.js, TypeScript, TailwindCSS, Next.js)
+iOS Development (Swift/SwiftUI)
+Files and Databases (SQL)
+Algorithms and Analysis (Python)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nbjoshi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
