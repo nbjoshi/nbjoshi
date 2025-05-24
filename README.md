@@ -18,13 +18,13 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 # 📝 Previous Coursework:
-Data Structures and Algorithms
-Design Patterns and OOP
-System Fundamentals
-Foundations of Statistics and Data Science
-Modern Web Development
-iOS Development
-Files and Databases
+Data Structures and Algorithms,
+Design Patterns and OOP,
+System Fundamentals,
+Foundations of Statistics and Data Science,
+Modern Web Development,
+iOS Development,
+Files and Databases,
 Algorithms and Analysis
 
 # 📊 GitHub Stats:
