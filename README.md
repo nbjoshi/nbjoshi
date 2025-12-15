@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Neel!
 
+I’m Neel Joshi, a Computer Science student at UNC–Chapel Hill who loves building full-stack products end to end. I’m currently a Software Development Intern at Bandwidth, and outside of work I’m actively building and refining my iOS app, CineSense—integrating Google Gemini and experimenting with rewriting views using Cursor—with the goal of publishing it on the App Store. On campus, I stay involved through App Team Carolina, serving as an Undergraduate TA for COMP 426, and contributing to Computer Science for Social Good.
+
 # 💻 Skills:
-## 🎨 Frontend
+## Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%231572B6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) 
@@ -13,7 +15,7 @@
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) 
 
-## 🛠️ Backend
+## Backend
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Flask](https://img.shields.io/badge/Flask-%2300599C.svg?style=for-the-badge&logo=Flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
